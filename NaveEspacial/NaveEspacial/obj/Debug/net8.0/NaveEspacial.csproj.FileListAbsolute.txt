@@ -12,3 +12,17 @@ C:\Users\PC-220\Desktop\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\obj\Deb
 C:\Users\PC-220\Desktop\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.pdb
 C:\Users\PC-220\Desktop\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.genruntimeconfig.cache
 C:\Users\PC-220\Desktop\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\obj\Debug\net8.0\ref\NaveEspacial.dll
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\bin\Debug\net8.0\NaveEspacial.exe
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\bin\Debug\net8.0\NaveEspacial.deps.json
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\bin\Debug\net8.0\NaveEspacial.runtimeconfig.json
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\bin\Debug\net8.0\NaveEspacial.dll
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\bin\Debug\net8.0\NaveEspacial.pdb
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.GeneratedMSBuildEditorConfig.editorconfig
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.AssemblyInfoInputs.cache
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.AssemblyInfo.cs
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.csproj.CoreCompileInputs.cache
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.dll
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\obj\Debug\net8.0\refint\NaveEspacial.dll
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.pdb
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.genruntimeconfig.cache
+H:\PROYECTO NAVE ESPACIAL\NaveEspacial\NaveEspacial\obj\Debug\net8.0\ref\NaveEspacial.dll

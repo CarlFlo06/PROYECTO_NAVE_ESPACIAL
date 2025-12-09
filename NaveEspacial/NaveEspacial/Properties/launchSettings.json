@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NaveEspacial": {
+      "commandName": "Project"
+    },
+    "Perfil 1": {
+      "commandName": "Project"
+    }
+  }
+}
