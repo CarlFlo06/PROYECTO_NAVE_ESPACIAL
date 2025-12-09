@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-220\\Desktop\\PROYECTO NAVE ESPACIAL\\NaveEspacial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11CAAA40-64ED-47ED-9B3A-B5AFD7FAB454}|NaveEspacial\\NaveEspacial.csproj|c:\\users\\pc-220\\desktop\\proyecto nave espacial\\naveespacial\\naveespacial\\ventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CAAA40-64ED-47ED-9B3A-B5AFD7FAB454}|NaveEspacial\\NaveEspacial.csproj|solutionrelative:naveespacial\\ventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CAAA40-64ED-47ED-9B3A-B5AFD7FAB454}|NaveEspacial\\NaveEspacial.csproj|c:\\users\\pc-220\\desktop\\proyecto nave espacial\\naveespacial\\naveespacial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CAAA40-64ED-47ED-9B3A-B5AFD7FAB454}|NaveEspacial\\NaveEspacial.csproj|solutionrelative:naveespacial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ventana.cs",
+              "DocumentMoniker": "C:\\Users\\PC-220\\Desktop\\PROYECTO NAVE ESPACIAL\\NaveEspacial\\NaveEspacial\\Ventana.cs",
+              "RelativeDocumentMoniker": "NaveEspacial\\Ventana.cs",
+              "ToolTip": "C:\\Users\\PC-220\\Desktop\\PROYECTO NAVE ESPACIAL\\NaveEspacial\\NaveEspacial\\Ventana.cs",
+              "RelativeToolTip": "NaveEspacial\\Ventana.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T23:44:42.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC-220\\Desktop\\PROYECTO NAVE ESPACIAL\\NaveEspacial\\NaveEspacial\\Program.cs",
+              "RelativeDocumentMoniker": "NaveEspacial\\Program.cs",
+              "ToolTip": "C:\\Users\\PC-220\\Desktop\\PROYECTO NAVE ESPACIAL\\NaveEspacial\\NaveEspacial\\Program.cs",
+              "RelativeToolTip": "NaveEspacial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T23:43:09.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
